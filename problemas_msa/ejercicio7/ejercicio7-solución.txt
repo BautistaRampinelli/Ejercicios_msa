@@ -1,0 +1,3 @@
+Lo primero que realicé oara este ejercicio fue declarar un array, una variable númerica y otra booleana.
+Luego mediante una función, con un for y un if, buscamos los divisores de cada número, y en la misma función, verificamos si es un número perfecto o no.
+Por último, en un while, buscamos todos los números perfectos hasta el 100.000, utilizando la función, y a los que cumplen los requisitos, los añadimos a la lista.

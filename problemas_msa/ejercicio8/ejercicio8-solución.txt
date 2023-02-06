@@ -1,0 +1,2 @@
+En este ejercicio primero anoté los apellidos de los jugadores en un array.
+Luego, con el método sort, los ordene de acuerdo a el tamaño de los strings, utilizando length.

@@ -1,0 +1,3 @@
+Para resolver este ejercicio primero decidí crear una lista y una variable.
+Luego, mediante un while, recorrer todos los números buscando los pares. Para saber si un número es par, lo dividimos por dos y vemos el resto de esa divsión. 
+Si el resto es 0, entonces lo añadimos a la lista, hasta que esta esté completa con 7 elementos.

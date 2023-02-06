@@ -1,0 +1,3 @@
+Para resolver este ejercicio cree una lista y una variable númerica inicializada en 1.
+Después mediante un while y un if, recorrí todos los número hasta el 100, haciendo que cada vez que la lista se llenase (hasta 10 números) se impriman los números y el texto solicitado.
+Cada vez que esto ocurra, la lista se vacía y continua el programa hasta que se finalice el while.

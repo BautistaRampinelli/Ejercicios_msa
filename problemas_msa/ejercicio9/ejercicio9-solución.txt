@@ -1,0 +1,3 @@
+Para resolver este ejercicio primero busqué una página de donde sacar los nombres de las calles de Bs As. Los copié y utilizando "mayús + alt + z" les agregué comillas y comas a todos, para poder utilizarlos como array.
+Luego cree una función para ver si un string es capicúa, invirtiendo el orden de las letras.
+Finalmente, mediante un for se recorre el array de los nombres de las calles, y si son capicúa o tienen más de 10 letras, se los agrega a otro array nuevo.

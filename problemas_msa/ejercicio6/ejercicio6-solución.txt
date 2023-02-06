@@ -1,0 +1,2 @@
+Para resolver este ejercicio primero cree un array con los dos primeros números de fibonacci. Luego, mediante un for, se calculan los otros números. Como solo nos pide los últimos 5 dígitos, podemos realizar la función de fibonacci solo con los últimos 5 dígitos de todos los números.
+A medida que se calculan los números, se agregan al array hasta llegar al número solicitado. Finalmente se selecciona el último número del array y se lo muestra en consola.

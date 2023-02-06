@@ -1,0 +1,3 @@
+En este ejercicio primero cree una lista y una variable donde el número comienza en 10, dado que piden solo los números de dos dígitos.
+Luego en el while, realizamos la verificación de si el número es multiplo de 7, hasta llegar a números de 3 digitos.
+Finalmente los añadimos a la lista.

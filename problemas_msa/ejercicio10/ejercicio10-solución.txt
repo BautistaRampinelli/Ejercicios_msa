@@ -1,0 +1,3 @@
+Para resolver este ejercicio primero cree una lista, una variable númerica y otra booleana. 
+Mediante una función definimos si el número es múltiplo de 7 o no. 
+Luego evaluamos todos los números del 1 al 100, validando si son múltiplos de 7 y si terminan en 0. En caso de que se cumpla alguna o ambas condiciones, los agregamos a la lista reemplazando el número por el texto solicitado.
